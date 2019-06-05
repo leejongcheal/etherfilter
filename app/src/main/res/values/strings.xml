@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">filter</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="search">Search Adress</string>
+</resources>
